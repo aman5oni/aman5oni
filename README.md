@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aman5oni
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning reactJS
+- 👀 I’m Full Stack Developer
+- 🌱 I’m currently learning Designing using Frontend
 
 <!---
 aman5oni/aman5oni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
